@@ -8,4 +8,4 @@ Pueden hacer lo que quieran...
 
 ### Actualizado desde Github
 
-Este es un mensaje editado completamente desasdde github
+Este es un mensaje editado completamente desde github
